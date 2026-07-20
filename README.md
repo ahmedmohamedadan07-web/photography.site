@@ -1,21 +1,22 @@
-# Ahmed photography
+# Project name
+ Ahmed photography
 
- ## About
- I am a passionate beginner web developer and photography
+ # Description  of project 
+ Welcome to Ahmed Photography.
+ Photography allows us to preserve memories and tell stories through beautiful images.
 
- ## Features
- =Hero section
- =Introduction
- =Favorite photos sect
- =Biography section
- =Photography section
- =Contact section
- =Footer section
+ # Project setup instructions
+ -Clone the repository.
+ -Open the project folder.
+ -Run the project using live server.
+ -Start editing the files.
 
- ## technology used
- -HTML
- -CSS
+ # Copyright
+  Copyright 2026 Ahmed Photography.
+
+  # license
+   This project is licensed under the MIT license.
 
 
- ## Author
+ # Author
  Ahmed Mohamed
