@@ -102,7 +102,7 @@ nav ul li a:hover::after {
 /* Hero Section */
 section:first-of-type {
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
+    background: linear-gradient(rgba(172, 140, 140, 0.55), rgba(94, 50, 50, 0.55)),
                 url("https://images.pexels.com/photos/3584930/pexels-photo-3584930.jpeg");
     background-size: cover;
     background-position: center;

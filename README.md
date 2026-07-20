@@ -11,12 +11,5 @@
  -Run the project using live server.
  -Start editing the files.
 
- # Copyright
-  Copyright 2026 Ahmed Photography.
-
-  # license
-   This project is licensed under the MIT license.
-
-
  # Author
  Ahmed Mohamed
